@@ -16,7 +16,7 @@
     * Why not?
 
 ```text
-ANSWER Why not? HERE
+The answers being to be incorrect around 15 because the factorial of 15 is larger than the max value that can be stored in Long in Java.
 ```
 
 3. Convert factorial so that it performs its calculation using **BigIntegers** and returns a **BigInteger** as a result.
@@ -26,7 +26,7 @@ ANSWER Why not? HERE
     * How high can you make it go?
 
 ```text
-ANSWER #4 HERE
+After modifying it, it now displays the correct answers. It can now go to 30 and beyond, the limit to how high it can go is mainly determined by how much memory you have to compute the process.
 ```
 
 ## Submission
